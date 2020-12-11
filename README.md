@@ -2,17 +2,16 @@
 
 # Project Name newsweek clone
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+> A clone of NewsWeeks home page.The webside is build using modern css and bootstrap.The website is fully responsive.
+![screenshot](newsweek image.png)
 
 Additional description about the project and its features.
 
 ## Built With
+-html
+- CSS
+- Bootstrap
 
-- Major languages
-- Frameworks
-- Technologies used
 
 ## Live Demo
 
